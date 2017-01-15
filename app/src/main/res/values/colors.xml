@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/sharp</color>
+    <color name="colorPrimaryDark">@color/sharp_dark</color>
+    <color name="colorAccent">#0d47a1</color>
+
+    <!--Color components-->
+    <color name="colorToolbar">@color/colorPrimary</color>
+    <color name="buttonRipple">@color/colorPrimary</color>
+    <color name="buttonRippleShadow">@color/grey</color>
+
+    <!--Colors-->
+    <color name="sharp_dark">#1e1f25</color>
+    <color name="sharp">#32353E</color>
+    <color name="grey_chateu">#9D9EA0</color>
+    <color name="grey">#979797</color>
+    <color name="grey_170">#aa979797</color>
+
+    shark = #32353E
+    white = #FEFEFE
+    cinnabar = #E63C35
+    empress = #877277
+    grey-chateau = #9D9EA0
+    pale-rose = #E4DBDC
+</resources>
